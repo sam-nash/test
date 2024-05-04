@@ -53,6 +53,31 @@ Column1|Column2
 Row1-Col1|Row1-Col2
 Row2-Col2|Row2-Col2
 
+Syntax Highlighting using language prefix
+
+```python
+list = []
+dict = {"name": "sam", "number": 123}
+```
+
+```javascript
+var first = 1;
+var second = 2;
+var sum = first + second;
+```
+
+References to Pull Requests 
+
+https://github.com/sam-nash/test/pull/4
+
+
+desktop/desktop#3602
+
+
+References to commits
+
+8304e9c271a5e5ab4fda797304cd7bcca7158c87
+
 Blockquotes are created using the greater than (>) character.
 > This is a quote
 
